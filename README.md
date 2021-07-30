@@ -20,3 +20,8 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreira-palma-722b7a1b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+  ##
+ <div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaopedro7423&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
