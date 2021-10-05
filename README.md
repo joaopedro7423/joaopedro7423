@@ -24,5 +24,4 @@
  ##
  
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaopedro7423&theme=react&date_format=n%2Fj%5B%2FY%5D&border=4D3902)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaopedro7423&theme=react&date_format=j%2Fn%5B%2FY%5D&border=4D3902)](https://git.io/streak-stats)
