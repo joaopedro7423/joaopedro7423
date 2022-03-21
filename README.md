@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro7423&" alt="joaopedro7423" /></p>
 
-<p> ![Snake animation](https://github.com/joaopedro7423/joaopedro7423/blob/output/github-contribution-grid-snake.svg)</p>
