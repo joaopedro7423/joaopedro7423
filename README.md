@@ -32,7 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopedro7423&show_icons=true&locale=en&theme=dark" alt="joaopedro7423" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro7423&theme=dark" alt="joaopedro7423" /></p>
-
-<p><img align="center" src="https://metrics.lecoq.io/joaopedro7423" alt="joaopedro7423" /></p>
-
-
